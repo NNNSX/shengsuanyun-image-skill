@@ -103,5 +103,5 @@ When `--save-response` is used, it also writes:
 - `Missing API key`: set `SHENGSUANYUN_API_KEY` or pass `--api-key`.
 - `HTTP 401`: the token is invalid.
 - Network/DNS failure: rerun with network permission.
-- Policy refusal: rewrite with neutral safety-monitoring or research-demo language; see `references/prompting.md`.
+- Policy refusal: rewrite into a neutral, non-harmful, non-identifying, or clearly educational/demo form; see `references/prompting.md`.
 - Reference image ignored: try fewer references and make each role explicit in the prompt.

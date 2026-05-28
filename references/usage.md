@@ -80,5 +80,5 @@ python3 <skill_dir>/scripts/shengsuanyun_image.py \
 
 - `401 Unauthorized`: invalid or missing API key.
 - Network/DNS error: retry with network permission if Codex is sandboxed.
-- Policy refusal: rewrite prompt with neutral, non-weaponized, safety-monitoring language.
+- Policy refusal: rewrite the prompt into neutral, non-harmful, non-identifying, or clearly educational/demo language.
 - No image URL in final response: inspect the saved final response JSON.
