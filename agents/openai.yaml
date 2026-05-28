@@ -1,0 +1,3 @@
+display_name: Shengsuanyun Image
+short_description: Generate gpt-image-2 images through Shengsuanyun Router with prompt files and reference images.
+default_prompt: Use the Shengsuanyun image skill to generate an image from my prompt, optionally with reference images, and save the result in the project.
